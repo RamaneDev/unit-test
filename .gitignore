@@ -1,0 +1,5 @@
+.vscode/
+dotnet-test/PrimeService/obj/
+dotnet-test/PrimeService/bin/
+dotnet-test/PrimeService.Tests/bin/
+dotnet-test/PrimeService.Tests/obj/
